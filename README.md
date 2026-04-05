@@ -37,11 +37,13 @@ We are working with a dataset consisting of 260k+ records along with another dat
 ### Pack Sizes:
 
 <img width="907" height="520" alt="image" src="https://github.com/user-attachments/assets/85a2139b-27db-4782-9cbc-05caea0d0623" />
+
 We can see that our best performing pack size is 175 grams. Everything under that size performs fairly well. Anything greater than 175 and less than 250 grams performs poorly. Sales are decent for anything above 250 grams, but insignificant compared to products 175 grams or less.
 
 
 ### Top Brands:
 <img width="904" height="513" alt="image" src="https://github.com/user-attachments/assets/095032ec-dcb8-4324-a4ab-0fa29d9a73ce" />
+
 Our top performing brand by a large margin is Kettle, followed by Doritos, Smiths, and Pringles. Brands like Burger, French, and Sunbites perform very poorly, not even reaching $10k in sales. We must consider discontinuing poor-performing products.
 
 
@@ -49,13 +51,21 @@ Our top performing brand by a large margin is Kettle, followed by Doritos, Smith
 <img width="908" height="522" alt="image" src="https://github.com/user-attachments/assets/2d9df145-2ce5-494d-8c95-40ae14f302b2" />
 <img width="911" height="516" alt="image" src="https://github.com/user-attachments/assets/380da51c-2280-4b64-90e3-7fd2f6cf6654" />
 <img width="910" height="520" alt="image" src="https://github.com/user-attachments/assets/72f02c69-1979-41e1-a71c-e86bc9419bf5" />
+
 The older population makes up over half of our sales. The younger population still makes up a considerable amount of our customers, and it may be worth targeting that segment. I would also like to point out that mainstream customers are our largest segment of customer type and account for nearly 39% of our sales.
 
 
 ### Trial Stores:
 <img width="1003" height="356" alt="image" src="https://github.com/user-attachments/assets/8af66c3b-b104-464d-a278-396b7124321d" />
+
 The only significant change was with trial store 77. It outperformed its benchmark significantly in March. The other trial stores either slightly outperformed or underperformed the control stores.
 
+# Recommendations:
+Based on the insights and findings above, we would recommend the Category Manager to consider the following:
+
+We recommend focusing on products under 175 grams, increase production of Kettle chips, focus on mainstream, younger customers. Changes made to trial store 77 should be applied to others, while changes to 86 should be reverted.
+
+In terms of sales, our smaller products tend to perform better. Brands like Kettle, Doritos, and Smiths are very successful while brands like Burger are not selling well. Consider discontinuing products under $10k in sales while ramping up production on our top brands.
 
 
 
