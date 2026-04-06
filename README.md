@@ -20,7 +20,7 @@ We are working with a dataset consisting of 260k+ records along with another dat
 
 ## Overview of findings
 
-- Products less than 200 grams tend to perform better in terms of sales
+- Products less than 175 grams tend to perform better in terms of sales
 - Large drop-off in sales during February of 2019 before reaching a yearly high in March
 - Top brand is Kettle, followed by Doritos and Smiths
 - Older customers account for over half our sales
